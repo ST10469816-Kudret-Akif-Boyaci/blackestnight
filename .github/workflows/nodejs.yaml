@@ -30,6 +30,6 @@ jobs:
       with:
         target_branch: main
         build_dir: .vitepress/dist
-        repo: kngako/kngako.github.io
+        repo: ST10469816-Kudret-Akif-Boyaci/ST10469816-Kudret-Akif-Boyaci.github.io
       env:
         GITHUB_PAT: ${{ secrets.DEPLOYMENT_TOKEN }}
